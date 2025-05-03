@@ -11,6 +11,14 @@ This is a simple Quiz Application built using Spring Boot. It allows users to ma
 
 ---
 
+## 🔧 Technologies Used
+
+- **Java**
+- **Spring Boot**
+- **Spring Data JPA**
+- **H2 / MySQL Database** (configurable)
+- **Maven**
+
 ## API Endpoints
 
 ### 📋 Question Endpoints
